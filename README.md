@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhakshanyah Rajendra</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6EA8FE&center=true&vCenter=true&width=700&lines=AI+Engineering+Undergraduate;Mobile+App+Developer;UI%2FUX+Designer;Building+Intelligent+Digital+Experiences" />
+</p>
 
 <h3 align="center">
 AI Engineering Undergraduate • Mobile App Developer • UI/UX Designer
