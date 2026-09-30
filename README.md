@@ -161,7 +161,8 @@ Responsive personal portfolio website showcasing my projects, technical skills a
 
 - 🥉 3rd Place – Final Year Research Project
 - 🥈 2nd Place – INSL North Central Provincial Competition 2025
-- 🏅 Finalist – INSL North Central Provincial Competition 2024
+- 🥉 3rd Place – INSL North Central Provincial Competition 2024
+- 🏅 Finalist – INSL 2024
 
 ---
 
