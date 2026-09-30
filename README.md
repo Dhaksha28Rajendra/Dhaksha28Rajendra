@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BSc in Information and Communication Technology graduate from Rajarata University of Sri Lanka
+- 🎓 Bachelor of Science (BSc) in Information Technology graduate from Rajarata University of Sri Lanka
 - 💻 Aspiring Software Engineer with a strong interest in full-stack application development
 - 🌐 Experienced in building web applications using React, Next.js, TypeScript and backend APIs
 - 📱 Experienced in mobile application development using Flutter and Dart
